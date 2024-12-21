@@ -19,20 +19,13 @@ The app is built using **Flutter** with state management handled through **Provi
 
 ## Demo
 
-1. **Breaking News**
-   <img src="/assets/github_images/searching.gif" alt="Breaking News" width="400" height="100/>
-
-2. **Categorized Sections**
-   <img src="assets/github_images/veri_failed.gif" alt="Categorized Sections" width="600"/>
-
-3. **Bookmarks and Favorites**
-   <img src="assets/github_images/veri_succes.gif" alt="Bookmarks" width="600"/>
-
-4. **Search Functionality**
-   <img src="assets/github_images/webview.gif" alt="Search" width="600"/>
-
-5. **Search Functionality**
-   <img src="assets/github_images/bookmarks.gif" alt="Search" width="600"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/github_images/searching.gif" alt="Breaking News" width="300"/>
+  <img src="assets/github_images/veri_failed.gif" alt="Categorized Sections" width="300"/>
+  <img src="assets/github_images/veri_succes.gif" alt="Bookmarks" width="300"/>
+  <img src="assets/github_images/webview.gif" alt="Search" width="300"/>
+  <img src="assets/github_images/bookmarks.gif" alt="Search" width="300"/>
+</div>
 
 ## Installation and Usage (End Users)
 
