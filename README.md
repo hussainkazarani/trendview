@@ -20,11 +20,32 @@ The app is built using **Flutter** with state management handled through **Provi
 ## Demo
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/github_images/searching.gif" alt="Breaking News" width="300"/>
-  <img src="assets/github_images/veri_failed.gif" alt="Categorized Sections" width="300"/>
-  <img src="assets/github_images/veri_succes.gif" alt="Bookmarks" width="300"/>
-  <img src="assets/github_images/webview.gif" alt="Search" width="300"/>
-  <img src="assets/github_images/bookmarks.gif" alt="Search" width="300"/>
+
+  <div style="text-align: center;">
+    <img src="assets/github_images/veri_failed.gif" alt="Categorized Sections" width="250"/>
+    <p>Categorized Sections</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/github_images/veri_succes.gif" alt="Bookmarks" width="250"/>
+    <p>Bookmarks</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/github_images/searching.gif" alt="Breaking News" width="250"/>
+    <p>Breaking News</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/github_images/bookmarks.gif" alt="Search" width="250"/>
+    <p>Search</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="assets/github_images/webview.gif" alt="WebView" width="250"/>
+    <p>WebView</p>
+  </div>
+
 </div>
 
 ## Installation and Usage (End Users)
