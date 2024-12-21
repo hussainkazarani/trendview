@@ -19,17 +19,13 @@ The app is built using **Flutter** with state management handled through **Provi
 
 ## Demo
 
-| **Categorized Sections** | **Bookmarks** |
-|:-------------------------:|:-------------:|
-| <img src="assets/github_images/veri_failed.gif" width="230"/> | <img src="assets/github_images/veri_succes.gif" width="230"/> |
+|                    **Failed Verification**                    |                   **Success Verification**                    |                         **Search**                          |
+| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: |
+| <img src="assets/github_images/veri_failed.gif" width="230"/> | <img src="assets/github_images/veri_succes.gif" width="230"/> | <img src="assets/github_images/searching.gif" width="230"/> |
 
-| **Breaking News** | **Search** |
-|:------------------:|:----------:|
-| <img src="assets/github_images/searching.gif" width="230"/> | <img src="assets/github_images/bookmarks.gif" width="230"/> |
-
-| **WebView** |
-|:------------:|
-| <img src="assets/github_images/webview.gif" width="230"/> |
+|                        **Bookmarks**                        |                        **WebView**                        |
+| :---------------------------------------------------------: | :-------------------------------------------------------: |
+| <img src="assets/github_images/bookmarks.gif" width="230"/> | <img src="assets/github_images/webview.gif" width="230"/> |
 
 ## Installation and Usage (End Users)
 
