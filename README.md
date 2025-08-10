@@ -21,7 +21,7 @@ The app is built using **Flutter** with state management handled through **Provi
 
 |                    **Failed Verification**                     |                    **Success Verification**                    |                          **Search**                          |
 | :------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="assets/github_images/veri_failed.webp" width="230"/> | <img src="assets/github_images/veri_succes.webp" width="230"/> | <img src="assets/github_images/searching.webp" width="247"/> |
+| <img src="assets/github_images/veri_failed.webp" width="230"/> | <img src="assets/github_images/veri_succes.webp" width="230"/> | <img src="assets/github_images/searching.webp" width="230"/> |
 
 |                        **Bookmarks**                         |                        **WebView**                         |
 | :----------------------------------------------------------: | :--------------------------------------------------------: |
